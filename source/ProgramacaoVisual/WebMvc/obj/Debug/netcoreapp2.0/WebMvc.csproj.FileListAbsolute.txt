@@ -1,0 +1,10 @@
+C:\Users\opet\Documents\GITHUB\ProgramacaoVisual\source\ProgramacaoVisual\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.deps.json
+C:\Users\opet\Documents\GITHUB\ProgramacaoVisual\source\ProgramacaoVisual\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.json
+C:\Users\opet\Documents\GITHUB\ProgramacaoVisual\source\ProgramacaoVisual\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.dev.json
+C:\Users\opet\Documents\GITHUB\ProgramacaoVisual\source\ProgramacaoVisual\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.dll
+C:\Users\opet\Documents\GITHUB\ProgramacaoVisual\source\ProgramacaoVisual\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.pdb
+C:\Users\opet\Documents\GITHUB\ProgramacaoVisual\source\ProgramacaoVisual\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csproj.CoreCompileInputs.cache
+C:\Users\opet\Documents\GITHUB\ProgramacaoVisual\source\ProgramacaoVisual\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfoInputs.cache
+C:\Users\opet\Documents\GITHUB\ProgramacaoVisual\source\ProgramacaoVisual\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfo.cs
+C:\Users\opet\Documents\GITHUB\ProgramacaoVisual\source\ProgramacaoVisual\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.dll
+C:\Users\opet\Documents\GITHUB\ProgramacaoVisual\source\ProgramacaoVisual\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.pdb
